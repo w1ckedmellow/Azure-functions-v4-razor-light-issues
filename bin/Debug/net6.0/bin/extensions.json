@@ -1,0 +1,5 @@
+{
+  "extensions":[
+    { "name": "Startup", "typeName":"Functions.Startup, RazorFuncTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+  ]
+}
